@@ -11,9 +11,9 @@ that share a file name but have different hash values.
 This program is not designed to interpret the data printed!
 It simply returns raw data and requires the user to determine what that data means.
 
-This program uses two particular python libraries: hashlib and os
-Hashlib is used to retrieve the hash values of files and os
-is usd to retrieve all the files ans filepaths used.
+This program uses two particular python libraries: hashlib and OS.
+Hashlib is used to retrieve the hash values of files and OS
+is used to retrieve all the files and filepaths used.
 
 The program is used by modifying the two lines with filepaths. These can be changed
 to any filepath that the program has access to, including entire drives. Accessing
