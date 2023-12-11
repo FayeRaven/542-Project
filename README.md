@@ -1,6 +1,6 @@
 # 542-Project
 
-This project was created as part of a project for CIS 542 at UMass Dartmouth
+This project was created as part of a project for CIS 542 at UMass Dartmouth (Fall 2023)
 
 This code is designed to take in 2 directories and compare each file in the first
 directory to each file in the second directory. It will print the number of
