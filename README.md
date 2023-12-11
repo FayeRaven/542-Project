@@ -1,5 +1,7 @@
 # 542-Project
 
+This project was created as part of a project for CIS 542 at UMass Dartmouth
+
 This code is designed to take in 2 directories and compare each file in the first
 directory to each file in the second directory. It will print the number of
 files, along with the files themselves, that share the same hash values but
